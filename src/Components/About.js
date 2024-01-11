@@ -13,19 +13,10 @@ const About = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
-        <h1 className="primary-heading">
-         Hello Developers Komal Here...!!
-        </h1>
+        <p className="primary-subheading">About me </p>
+        <h1 className="primary-heading">Goals</h1>
         <p className="primary-text">
-          <h1>Frontend Developers</h1>
-        I am a Passionate coder who enjoys building and creating intresting things and projects.I have 
-        experience with the Frontend developement.If you want to know more about the Technologiess I work,with you 
-        can check the "Tech stack" below or visit my GitHub profile.I love sharing my work with community, feel free to connect with me and HAPPY CODING ..
-        </p>
-        <p className="primary-text">
-          Loved Playing with code and Design 
-        </p>
+        To focused on crafting clean & userfriendly experience.And building excellent software that improves the lives of those around me </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
           <button className="watch-video-button">

@@ -17,11 +17,9 @@ const Home = () => {
           Hello Developers Komal Here...!!
           </h1>
           <p className="primary-text">
-          I am a Passionate coder who enjoys building and creating intresting things and projects.I have experience with the Frontend developement.If you want to know more about the Technologiess I work,with you can check the "Tech stack" below or visit my GitHub profile.I love sharing my work with community, feel free to connect with me and HAPPY CODING ..
+          I am a web designer and frontend developer who enjoys building and creating intresting things and projects.I have experience of a year with the Frontend developement.If you want to know more about the Technologiess I work ,with you can check the "Tech stack" below or visit my GitHub profile.
+          I love sharing my work with community, feel free to connect with me and HAPPY CODING ..
           </p>
-          <button className="secondary-button">
-            Order Now <FiArrowRight />{" "}
-          </button>
         </div>
         <div className="home-image-section">
           <img src={BannerImage} alt="" />
