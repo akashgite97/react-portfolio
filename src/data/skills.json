@@ -1,0 +1,19 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/figma.png"
+  }
+]
